@@ -6,3 +6,6 @@ tools/trailer/_make.log
 .vercel/
 .env*
 *.log
+
+.vercel
+.env*
