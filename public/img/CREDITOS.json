@@ -1,0 +1,478 @@
+{
+ "bruce-banner": {
+  "ator": "Mark Ruffalo",
+  "arquivo": "Mark_Ruffalo_(36201774756)_(cropped).jpg",
+  "licenca": "CC BY-SA 2.0",
+  "autor": "Gage Skidmore from Peoria, AZ, United States of America",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Mark_Ruffalo_(36201774756)_(cropped).jpg"
+ },
+ "hawkeye": {
+  "ator": "Jeremy Renner",
+  "arquivo": "Jeremy_Renner_at_TIFF_2025_(cropped).jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Max Surprenant",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jeremy_Renner_at_TIFF_2025_(cropped).jpg"
+ },
+ "natasha-romanoff": {
+  "ator": "Scarlett Johansson",
+  "arquivo": "Scarlett_Johansson-8588.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Harald Krichel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8588.jpg"
+ },
+ "tony-stark": {
+  "ator": "Robert Downey Jr.",
+  "arquivo": "RobertDowneyJr-byPhilipRomano7_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano7_(cropped).jpg"
+ },
+ "vision": {
+  "ator": "Paul Bettany",
+  "arquivo": "PaulBettany-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:PaulBettany-byPhilipRomano.jpg"
+ },
+ "scott-lang": {
+  "ator": "Paul Rudd",
+  "arquivo": "Paul_Rudd_at_the_2026_New_York_Film_Festival-003.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Bryan Berlin",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Paul_Rudd_at_the_2026_New_York_Film_Festival-003.jpg"
+ },
+ "cassie-lang": {
+  "ator": "Kathryn Newton",
+  "arquivo": "Kathryn_Newton_4DX_2023.jpg",
+  "licenca": "CC BY 3.0",
+  "autor": "4DX",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kathryn_Newton_4DX_2023.jpg"
+ },
+ "peter-parker": {
+  "ator": "Tom Holland",
+  "arquivo": "TomHolland-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:TomHolland-byPhilipRomano.jpg"
+ },
+ "carol-danvers": {
+  "ator": "Brie Larson",
+  "arquivo": "Brie_Larson_at_29th_Critics'_Choice_Awards_(brightened).jpg",
+  "licenca": "CC BY 3.0",
+  "autor": "The CW Network",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Brie_Larson_at_29th_Critics'_Choice_Awards_(brightened).jpg"
+ },
+ "shang-chi": {
+  "ator": "Simu Liu",
+  "arquivo": "Simu_Liu_by_Gage_Skidmore_2.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Simu_Liu_by_Gage_Skidmore_2.jpg"
+ },
+ "yelena-belova": {
+  "ator": "Florence Pugh",
+  "arquivo": "Florence_Pugh_2026.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Marlene Landu",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Florence_Pugh_2026.jpg"
+ },
+ "bucky-barnes": {
+  "ator": "Sebastian Stan",
+  "arquivo": "Sebastian_Stan-64526.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Harald Krichel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sebastian_Stan-64526.jpg"
+ },
+ "john-walker": {
+  "ator": "Wyatt Russell",
+  "arquivo": "Wyatt_Russell_at_Comic_Con_Connections_26_19_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "JaceMerlyn",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Wyatt_Russell_at_Comic_Con_Connections_26_19_(cropped).jpg"
+ },
+ "ava-starr": {
+  "ator": "Hannah John-Kamen",
+  "arquivo": "Hannah_John-Kamen_Ant-Man_&_The_Wasp_premiere.jpg",
+  "licenca": "CC BY 3.0",
+  "autor": "joyparris",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hannah_John-Kamen_Ant-Man_%26_The_Wasp_premiere.jpg"
+ },
+ "red-guardian": {
+  "ator": "David Harbour",
+  "arquivo": "David_Harbour_2025.jpg",
+  "licenca": "CC BY 3.0",
+  "autor": "PelucheEn ElEstuche",
+  "pagina": "https://commons.wikimedia.org/wiki/File:David_Harbour_2025.jpg"
+ },
+ "sentry": {
+  "ator": "Lewis Pullman",
+  "arquivo": "Lewis_Pullman_at_San_Diego_Comic_Con_2026-2.jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Kevin Paul",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lewis_Pullman_at_San_Diego_Comic_Con_2026-2.jpg"
+ },
+ "reed-richards": {
+  "ator": "Pedro Pascal",
+  "arquivo": "Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Bryan Berlin",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pedro_Pascal_at_the_2026_New_York_Film_Festival-042.jpg"
+ },
+ "sue-storm": {
+  "ator": "Vanessa Kirby",
+  "arquivo": "Vanessa_Kirby_at_the_2024_Toronto_International_Film_Festival_08_(Cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Jay Dixit",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vanessa_Kirby_at_the_2024_Toronto_International_Film_Festival_08_(Cropped).jpg"
+ },
+ "johnny-storm": {
+  "ator": "Joseph Quinn",
+  "arquivo": "Joseph_Quinn_by_Gage_Skidmore.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Joseph_Quinn_by_Gage_Skidmore.jpg"
+ },
+ "ben-grimm": {
+  "ator": "Ebon Moss-Bachrach",
+  "arquivo": "Ebon_Moss-Bachrach_at_the_2026_New_York_Film_Festival_(2)_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Amy Hecht",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ebon_Moss-Bachrach_at_the_2026_New_York_Film_Festival_(2)_(cropped).jpg"
+ },
+ "doutor-destino": {
+  "ator": "Robert Downey Jr.",
+  "arquivo": "RobertDowneyJr-byPhilipRomano7_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano7_(cropped).jpg"
+ },
+ "professor-x": {
+  "ator": "Patrick Stewart",
+  "arquivo": "Patrick_Stewart_1999_(retouch).jpg",
+  "licenca": "CC BY-SA 2.0",
+  "autor": "Kingkongphoto &amp; www.celebrity-photos.com from Laurel  Maryland, USA",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Patrick_Stewart_1999_(retouch).jpg"
+ },
+ "magneto": {
+  "ator": "Ian McKellen",
+  "arquivo": "SDCC13_-_Ian_McKellen.jpg",
+  "licenca": "CC BY-SA 2.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:SDCC13_-_Ian_McKellen.jpg"
+ },
+ "ciclope": {
+  "ator": "James Marsden",
+  "arquivo": "James_Marsden_by_Gage_Skidmore.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:James_Marsden_by_Gage_Skidmore.jpg"
+ },
+ "fera": {
+  "ator": "Kelsey Grammer",
+  "arquivo": "Kelsey_Grammer_Young_Washington_Film_Screening_2026_(cropped).jpg",
+  "licenca": "CC0",
+  "autor": "Exchanges Photos",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kelsey_Grammer_Young_Washington_Film_Screening_2026_(cropped).jpg"
+ },
+ "noturno": {
+  "ator": "Alan Cumming",
+  "arquivo": "FM_and_Alan_Cumming_in_NY-4_(cropped).jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Scottish Government",
+  "pagina": "https://commons.wikimedia.org/wiki/File:FM_and_Alan_Cumming_in_NY-4_(cropped).jpg"
+ },
+ "mistica": {
+  "ator": "Rebecca Romijn",
+  "arquivo": "Rebecca_Romijn_by_Gage_Skidmore_2.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Rebecca_Romijn_by_Gage_Skidmore_2.jpg"
+ },
+ "gambit": {
+  "ator": "Channing Tatum",
+  "arquivo": "Channing_Tatum_at_the_2026_Berlin_International_Film_Festival-69843.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Harald Krichel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Channing_Tatum_at_the_2026_Berlin_International_Film_Festival-69843.jpg"
+ },
+ "wolverine": {
+  "ator": "Hugh Jackman",
+  "arquivo": "Hugh_Jackman_by_Gage_Skidmore_3.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hugh_Jackman_by_Gage_Skidmore_3.jpg"
+ },
+ "deadpool": {
+  "ator": "Ryan Reynolds",
+  "arquivo": "Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_(cropped).jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Dick Thomas Johnson from Tokyo, Japan",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_(cropped).jpg"
+ },
+ "daredevil": {
+  "ator": "Charlie Cox",
+  "arquivo": "Charlie_Cox_at_MCM_Brum_26_04.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "JaceMerlyn",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Charlie_Cox_at_MCM_Brum_26_04.jpg"
+ },
+ "wilson-fisk": {
+  "ator": "Vincent D'Onofrio",
+  "arquivo": "Vincent_D'Onofrio_GalaxyCon_Nashville_052026-4.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "John Manard",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vincent_D'Onofrio_GalaxyCon_Nashville_052026-4.jpg"
+ },
+ "punisher": {
+  "ator": "Jon Bernthal",
+  "arquivo": "JonBernthal-byPhilipRomano2.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:JonBernthal-byPhilipRomano2.jpg"
+ },
+ "peter-quill": {
+  "ator": "Chris Pratt",
+  "arquivo": "Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_(3x4_cropped).jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Dick Thomas Johnson from Tokyo, Japan",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_(3x4_cropped).jpg"
+ },
+ "rocket": {
+  "ator": "Bradley Cooper (voz)",
+  "arquivo": "Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Bryan Berlin",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Bradley_Cooper_Is_This_Thing_On-41_(cropped).jpg"
+ },
+ "nebula": {
+  "ator": "Karen Gillan",
+  "arquivo": "Karen_Gillan_Photo_Op_GalaxyCon_Des_Moines_2025_(cropped).jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Super Festivals",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Karen_Gillan_Photo_Op_GalaxyCon_Des_Moines_2025_(cropped).jpg"
+ },
+ "gamora": {
+  "ator": "Zoe Saldaña",
+  "arquivo": "Zoe_Saldaña_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Kevin Payravi",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg"
+ },
+ "groot": {
+  "ator": "Vin Diesel (voz)",
+  "arquivo": "Vin_Diesel_by_Gage_Skidmore_2.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Vin_Diesel_by_Gage_Skidmore_2.jpg"
+ },
+ "drax": {
+  "ator": "Dave Bautista",
+  "arquivo": "Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Super Festivals",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Dave_Bautista_Photo_Op_GalaxyCon_Minneapolis_2019.jpg"
+ },
+ "mantis": {
+  "ator": "Pom Klementieff",
+  "arquivo": "Pom_Klementieff_at_the_2025_Cannes_Film_Festival_02.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Gabriel Hutchinson",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Pom_Klementieff_at_the_2025_Cannes_Film_Festival_02.jpg"
+ },
+ "adam-warlock": {
+  "ator": "Will Poulter",
+  "arquivo": "Will_Poulter_Sundance_2026_(cropped2).jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Janeirohy",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Will_Poulter_Sundance_2026_(cropped2).jpg"
+ },
+ "okoye": {
+  "ator": "Danai Gurira",
+  "arquivo": "Danai_Gurira_2024_(cropped).jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Danai_Gurira_2024_(cropped).jpg"
+ },
+ "namora": {
+  "ator": "Mabel Cadena",
+  "arquivo": "Actriz_Mabel_Cadena_2024_(cropped).jpg",
+  "licenca": "CC0",
+  "autor": "Ricardogarcia10",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Actriz_Mabel_Cadena_2024_(cropped).jpg"
+ },
+ "wong": {
+  "ator": "Benedict Wong",
+  "arquivo": "Benedict_Wong_2023_by_Peter_Guenzel_02.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Peter Guenzel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Benedict_Wong_2023_by_Peter_Guenzel_02.jpg"
+ },
+ "america-chavez": {
+  "ator": "Xochitl Gomez",
+  "arquivo": "Xochitl_Gomez_(2022).jpg",
+  "licenca": "CC BY 3.0",
+  "autor": "4DX",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Xochitl_Gomez_(2022).jpg"
+ },
+ "kate-bishop": {
+  "ator": "Hailee Steinfeld",
+  "arquivo": "Hailee_Steinfeld_by_Gage_Skidmore.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Gage Skidmore",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hailee_Steinfeld_by_Gage_Skidmore.jpg"
+ },
+ "riri-williams": {
+  "ator": "Dominique Thorne",
+  "arquivo": "DominiqueThorn-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomanoPhoto",
+  "pagina": "https://commons.wikimedia.org/wiki/File:DominiqueThorn-byPhilipRomano.jpg"
+ },
+ "jean-grey": {
+  "ator": "Sadie Sink",
+  "arquivo": "Sadie_Sink_(43914734441).jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Super Festivals from Ft. Lauderdale, USA",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sadie_Sink_(43914734441).jpg"
+ },
+ "mobius": {
+  "ator": "Owen Wilson",
+  "arquivo": "Owen_Wilson_Cannes_2011.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Georges Biard",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Owen_Wilson_Cannes_2011.jpg"
+ },
+ "ouroboros": {
+  "ator": "Ke Huy Quan",
+  "arquivo": "Ke_Huy_Quan_at_the_White_House_(52902390767)_(cropped).jpg",
+  "licenca": "Public domain",
+  "autor": "The White House",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Ke_Huy_Quan_at_the_White_House_(52902390767)_(cropped).jpg"
+ },
+ "nick-fury": {
+  "ator": "Samuel L. Jackson",
+  "arquivo": "SamuelLJackson.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Philip Romano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:SamuelLJackson.jpg"
+ },
+ "valquiria": {
+  "ator": "Tessa Thompson",
+  "arquivo": "TessaThompson-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomanoPhoto",
+  "pagina": "https://commons.wikimedia.org/wiki/File:TessaThompson-byPhilipRomano.jpg"
+ },
+ "hope-van-dyne": {
+  "ator": "Evangeline Lilly",
+  "arquivo": "Evangeline_Lilly_(53390939662).jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "Super Festivals from Ft. Lauderdale, USA",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Evangeline_Lilly_(53390939662).jpg"
+ },
+ "jane-foster": {
+  "ator": "Natalie Portman",
+  "arquivo": "NataliePortman.jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Colleen Sturtevant",
+  "pagina": "https://commons.wikimedia.org/wiki/File:NataliePortman.jpg"
+ },
+ "valentina": {
+  "ator": "Julia Louis-Dreyfus",
+  "arquivo": "JuliaLouisDreyfus-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:JuliaLouisDreyfus-byPhilipRomano.jpg"
+ },
+ "surfista-prateada": {
+  "ator": "Julia Garner",
+  "arquivo": "Julia_Garner_Berlinale_2020_(cropped)_2.jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Harald Krichel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Julia_Garner_Berlinale_2020_(cropped)_2.jpg"
+ },
+ "sersi": {
+  "ator": "Gemma Chan",
+  "arquivo": "Gemma_Chan_at_the_2026_Berlin_International_Film_Festival-69949_(cropped).jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Harald Krichel",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Gemma_Chan_at_the_2026_Berlin_International_Film_Festival-69949_(cropped).jpg"
+ },
+ "dane-whitman": {
+  "ator": "Kit Harington",
+  "arquivo": "Kit_harrington_by_sachyn_mital_(cropped_2).jpg",
+  "licenca": "CC BY-SA 3.0",
+  "autor": "Sachyn",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kit_harrington_by_sachyn_mital_(cropped_2).jpg"
+ },
+ "jessica-jones": {
+  "ator": "Krysten Ritter",
+  "arquivo": "Krysten_Ritter_-_LA_Times_Festival_of_Books_2025.jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Kevin Paul",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Krysten_Ritter_-_LA_Times_Festival_of_Books_2025.jpg"
+ },
+ "thaddeus-ross": {
+  "ator": "Harrison Ford",
+  "arquivo": "Harrison_Ford_-_Televerse_2025-03.jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Kevin Paul",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-03.jpg"
+ },
+ "samuel-sterns": {
+  "ator": "Tim Blake Nelson",
+  "arquivo": "Tim_Blake_Nelson_2016.jpg",
+  "licenca": "CC BY 2.0",
+  "autor": "DannyB Photos",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Tim_Blake_Nelson_2016.jpg"
+ },
+ "kang": {
+  "ator": "Jonathan Majors",
+  "arquivo": "JonathanMajors-byPhilipRomano.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "PhilipRomano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:JonathanMajors-byPhilipRomano.jpg"
+ },
+ "thanos": {
+  "ator": "Josh Brolin",
+  "arquivo": "Josh_Brolin_TIFF_2025_(cropped).jpg",
+  "licenca": "CC BY 4.0",
+  "autor": "Max Surprenant",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Josh_Brolin_TIFF_2025_(cropped).jpg"
+ },
+ "galactus": {
+  "ator": "Ralph Ineson",
+  "arquivo": "EIFF_2025_Two_Neighbours_August_16,_2025_Photo_credit_Cameron_Allan-29_(Ralph).jpg",
+  "licenca": "Public domain",
+  "autor": "Edinburgh International Film Festival",
+  "pagina": "https://commons.wikimedia.org/wiki/File:EIFF_2025_Two_Neighbours_August_16%2C_2025_Photo_credit_Cameron_Allan-29_(Ralph).jpg"
+ },
+ "steve-rogers": {
+  "ator": "Chris Evans",
+  "arquivo": "ChrisEvans2023.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "Philip Romano",
+  "pagina": "https://commons.wikimedia.org/wiki/File:ChrisEvans2023.jpg"
+ },
+ "wanda-maximoff": {
+  "ator": "Elizabeth Olsen",
+  "arquivo": "Elizabeth Olsen at the 2024 Toronto International Film Festival.jpg",
+  "licenca": "CC BY-SA 4.0",
+  "autor": "John Sears",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Elizabeth_Olsen_at_the_2024_Toronto_International_Film_Festival.jpg"
+ },
+ "kamala-khan": {
+  "ator": "Iman Vellani",
+  "arquivo": "Iman Vellani 2022 (1).png",
+  "licenca": "Public domain",
+  "autor": "VOA Urdu",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Iman_Vellani_2022_(1).png"
+ },
+ "agatha-harkness": {
+  "ator": "Kathryn Hahn",
+  "arquivo": "Kathryn Hahn 2024.png",
+  "licenca": "CC BY 4.0",
+  "autor": "Our Movie Guide",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Kathryn_Hahn_2024.png"
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trailer-tools",
+  "private": true,
+  "type": "module",
+  "description": "Renderização do vídeo promocional (Playwright + ffmpeg)",
+  "dependencies": { "playwright-core": "^1.49.0" }
+}

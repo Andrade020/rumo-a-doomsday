@@ -1,0 +1,8 @@
+node_modules/
+dist/
+arquivo-original/
+tools/trailer/_tmp/
+tools/trailer/_make.log
+.vercel/
+.env*
+*.log

@@ -1,0 +1,392 @@
+{
+ "steve-rogers": {
+  "fonte": "MCU Wiki",
+  "titulo": "Steve Rogers",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b7/Steve_Rogers_Infobox.jpg/revision/latest?cb=20260712215245"
+ },
+ "sam-wilson": {
+  "fonte": "MCU Wiki",
+  "titulo": "Captain America",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Captain_America_Infobox.jpg/revision/latest?cb=20250117164205"
+ },
+ "joaquin-torres": {
+  "fonte": "MCU Wiki",
+  "titulo": "Falcon",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Falcon_Infobox.png/revision/latest?cb=20250228094015"
+ },
+ "thor": {
+  "fonte": "MCU Wiki",
+  "titulo": "Thor",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2b/Thor_Infobox.jpg/revision/latest?cb=20231021012616"
+ },
+ "loki": {
+  "fonte": "MCU Wiki",
+  "titulo": "Loki",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b5/Loki_Infobox.png/revision/latest?cb=20250203204518"
+ },
+ "bruce-banner": {
+  "fonte": "MCU Wiki",
+  "titulo": "Hulk",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/29/Hulk_Infobox.jpg/revision/latest?cb=20260925124237"
+ },
+ "hawkeye": {
+  "fonte": "MCU Wiki",
+  "titulo": "Hawkeye",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5b/Hawkeye_Infobox.jpg/revision/latest?cb=20240222145717"
+ },
+ "natasha-romanoff": {
+  "fonte": "MCU Wiki",
+  "titulo": "Natasha Romanoff",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3f/Black_Widow_Infobox.jpg/revision/latest?cb=20231025163748"
+ },
+ "tony-stark": {
+  "fonte": "MCU Wiki",
+  "titulo": "Iron Man",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9d/Iron_Man_Infobox.jpg/revision/latest?cb=20240802142023"
+ },
+ "wanda-maximoff": {
+  "fonte": "MCU Wiki",
+  "titulo": "Scarlet Witch",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/60/Scarlet_Witch_Infobox.jpg/revision/latest?cb=20250203231704"
+ },
+ "scott-lang": {
+  "fonte": "MCU Wiki",
+  "titulo": "Ant-Man",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/46/Ant-Man_Infobox.png/revision/latest?cb=20231021014114"
+ },
+ "cassie-lang": {
+  "fonte": "MCU Wiki",
+  "titulo": "Cassie Lang",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/Cassie_Lang_Infobox.jpg/revision/latest?cb=20231124223701"
+ },
+ "peter-parker": {
+  "fonte": "MCU Wiki",
+  "titulo": "Spider-Man",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Spider-Man_Infobox.jpg/revision/latest?cb=20261016004855"
+ },
+ "carol-danvers": {
+  "fonte": "MCU Wiki",
+  "titulo": "Captain Marvel",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Captain_Marvel_Profile.png/revision/latest?cb=20240120054800"
+ },
+ "kamala-khan": {
+  "fonte": "MCU Wiki",
+  "titulo": "Ms. Marvel",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Ms._Marvel_Infobox.png/revision/latest?cb=20240120054811"
+ },
+ "monica-rambeau": {
+  "fonte": "MCU Wiki",
+  "titulo": "Monica Rambeau",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/dc/Monica_Rambeau_Profile.png/revision/latest?cb=20240120054741"
+ },
+ "doutor-estranho": {
+  "fonte": "MCU Wiki",
+  "titulo": "Doctor Strange",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b2/Doctor_Strange_MoM_Profile.jpeg/revision/latest?cb=20231021153337"
+ },
+ "shuri": {
+  "fonte": "MCU Wiki",
+  "titulo": "Black Panther",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/93/Black_Panther_Infobox.jpg/revision/latest?cb=20261012121856"
+ },
+ "mbaku": {
+  "fonte": "MCU Wiki",
+  "titulo": "M'Baku",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/M%27Baku_Infobox.png/revision/latest?cb=20231021150505"
+ },
+ "namor": {
+  "fonte": "MCU Wiki",
+  "titulo": "Namor",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/89/Namor_Profile.png/revision/latest?cb=20231021151847"
+ },
+ "shang-chi": {
+  "fonte": "MCU Wiki",
+  "titulo": "Shang-Chi",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/40/Shang-Chi_Profile.jpg/revision/latest?cb=20250318203001"
+ },
+ "yelena-belova": {
+  "fonte": "MCU Wiki",
+  "titulo": "Black Widow",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8e/Yelena_Belova_Infobox.jpg/revision/latest?cb=20261017030110"
+ },
+ "bucky-barnes": {
+  "fonte": "MCU Wiki",
+  "titulo": "Winter Soldier",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/21/Winter_Soldier_Infobox.jpg/revision/latest?cb=20250425194747"
+ },
+ "john-walker": {
+  "fonte": "MCU Wiki",
+  "titulo": "U.S. Agent",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/ba/U.S._Agent_Infobox.png/revision/latest?cb=20260313234727"
+ },
+ "ava-starr": {
+  "fonte": "MCU Wiki",
+  "titulo": "Ghost",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4f/Ghost_Infobox.jpg/revision/latest?cb=20260313234608"
+ },
+ "red-guardian": {
+  "fonte": "MCU Wiki",
+  "titulo": "Red Guardian",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a0/Red_Guardian_Infobox.jpg/revision/latest?cb=20260313235054"
+ },
+ "sentry": {
+  "fonte": "MCU Wiki",
+  "titulo": "Sentry",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Sentry_Infobox.png/revision/latest?cb=20250704175735"
+ },
+ "reed-richards": {
+  "fonte": "MCU Wiki",
+  "titulo": "Mister Fantastic",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9f/Mister_Fantastic_Infobox.png/revision/latest?cb=20261017030042"
+ },
+ "sue-storm": {
+  "fonte": "MCU Wiki",
+  "titulo": "Invisible Woman",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/69/Invisible_Woman_Infobox.png/revision/latest?cb=20250716012849"
+ },
+ "johnny-storm": {
+  "fonte": "MCU Wiki",
+  "titulo": "Human Torch",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b8/Human_Torch_Infobox.png/revision/latest?cb=20250716012601"
+ },
+ "ben-grimm": {
+  "fonte": "MCU Wiki",
+  "titulo": "Thing",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2a/Thing_Infobox.png/revision/latest?cb=20250716011850"
+ },
+ "doutor-destino": {
+  "fonte": "MCU Wiki",
+  "titulo": "Doctor Doom",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/07/Doctor_Doom_Infobox.png/revision/latest?cb=20260726013713"
+ },
+ "professor-x": {
+  "fonte": "MCU Wiki",
+  "titulo": "Professor X",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/06/Professor_X_Infobox.png/revision/latest?cb=20261012121723"
+ },
+ "magneto": {
+  "fonte": "MCU Wiki",
+  "titulo": "Magneto",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/41/Magneto_Infobox.png/revision/latest?cb=20261020063919"
+ },
+ "ciclope": {
+  "fonte": "MCU Wiki",
+  "titulo": "Cyclops",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/3d/Cyclops_Infobox.png/revision/latest?cb=20261022205612"
+ },
+ "fera": {
+  "fonte": "MCU Wiki",
+  "titulo": "Beast",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/86/Beast_Infobox.png/revision/latest?cb=20260903194450"
+ },
+ "noturno": {
+  "fonte": "MCU Wiki",
+  "titulo": "Nightcrawler",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/53/Nightcrawler_Infobox.jpeg/revision/latest?cb=20260712214620"
+ },
+ "mistica": {
+  "fonte": "MCU Wiki",
+  "titulo": "Mystique",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f8/Mystique_Infobox.jpeg/revision/latest?cb=20261029145714"
+ },
+ "gambit": {
+  "fonte": "MCU Wiki",
+  "titulo": "Gambit",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ab/Gambit_Infobox.png/revision/latest?cb=20261022172225"
+ },
+ "wolverine": {
+  "fonte": "MCU Wiki",
+  "titulo": "Wolverine",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/7c/Wolverine_Infobox.png/revision/latest?cb=20260809165635"
+ },
+ "deadpool": {
+  "fonte": "MCU Wiki",
+  "titulo": "Deadpool",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/ad/Deadpool_Infobox.png/revision/latest?cb=20240522015012"
+ },
+ "daredevil": {
+  "fonte": "MCU Wiki",
+  "titulo": "Daredevil",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d7/Daredevil_Infobox.jpg/revision/latest?cb=20260319203044"
+ },
+ "wilson-fisk": {
+  "fonte": "MCU Wiki",
+  "titulo": "Kingpin",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9c/Kingpin_Infobox.jpg/revision/latest?cb=20260313171448"
+ },
+ "punisher": {
+  "fonte": "MCU Wiki",
+  "titulo": "Punisher",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1c/Punisher_Infobox.png/revision/latest?cb=20261015122544"
+ },
+ "peter-quill": {
+  "fonte": "MCU Wiki",
+  "titulo": "Star-Lord",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6c/Star-Lord_Infobox.jpg/revision/latest?cb=20241126002144"
+ },
+ "rocket": {
+  "fonte": "MCU Wiki",
+  "titulo": "Rocket Raccoon",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/30/Rocket_Vol._3.jpg/revision/latest?cb=20231114031203"
+ },
+ "nebula": {
+  "fonte": "MCU Wiki",
+  "titulo": "Nebula",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/37/Nebula_Vol._3.jpg/revision/latest?cb=20240802144159"
+ },
+ "gamora": {
+  "fonte": "MCU Wiki",
+  "titulo": "Gamora",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/7/70/Gamora_Infobox.jpg/revision/latest?cb=20231024023800"
+ },
+ "groot": {
+  "fonte": "MCU Wiki",
+  "titulo": "Groot",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/57/Groot_Infobox.png/revision/latest?cb=20260126002142"
+ },
+ "drax": {
+  "fonte": "MCU Wiki",
+  "titulo": "Drax the Destroyer",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cd/Drax_Vol._3.jpg/revision/latest?cb=20231113213618"
+ },
+ "mantis": {
+  "fonte": "MCU Wiki",
+  "titulo": "Mantis",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Mantis_Infobox.jpg/revision/latest?cb=20241126000747"
+ },
+ "adam-warlock": {
+  "fonte": "MCU Wiki",
+  "titulo": "Adam Warlock",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/08/Adam_Warlock_Infobox.png/revision/latest?cb=20230823213057"
+ },
+ "okoye": {
+  "fonte": "MCU Wiki",
+  "titulo": "Okoye",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Black_Panther_Wakanda_Forever_poster_024_Textless.jpg/revision/latest?cb=20240802144734"
+ },
+ "namora": {
+  "fonte": "MCU Wiki",
+  "titulo": "Namora",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/23/Namora.png/revision/latest?cb=20231021021018"
+ },
+ "attuma": {
+  "fonte": "MCU Wiki",
+  "titulo": "Attuma",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/ec/Attuma_-_Infobox.png/revision/latest?cb=20231021021047"
+ },
+ "wong": {
+  "fonte": "MCU Wiki",
+  "titulo": "Wong",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/00/Wong_in_She-Hulk.jpg/revision/latest?cb=20240802144541"
+ },
+ "america-chavez": {
+  "fonte": "MCU Wiki",
+  "titulo": "America Chavez",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a8/America_Chavez.png/revision/latest?cb=20231021153752"
+ },
+ "agatha-harkness": {
+  "fonte": "MCU Wiki",
+  "titulo": "Agatha Harkness",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a5/Agatha_Harkness_Infobox.jpg/revision/latest?cb=20250404171313"
+ },
+ "kate-bishop": {
+  "fonte": "MCU Wiki",
+  "titulo": "Kate Bishop",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/d9/Kate_Bishop_Infobox.jpg/revision/latest?cb=20240222150059"
+ },
+ "riri-williams": {
+  "fonte": "MCU Wiki",
+  "titulo": "Ironheart",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/48/Ironheart_Infobox.jpg/revision/latest?cb=20250516014201"
+ },
+ "jean-grey": {
+  "fonte": "MCU Wiki",
+  "titulo": "Jean Grey",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b3/Jean_Grey_Infobox.jpg/revision/latest?cb=20261014221909"
+ },
+ "mobius": {
+  "fonte": "MCU Wiki",
+  "titulo": "Mobius M. Mobius",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2d/Mobius_M._Mobius.png/revision/latest?cb=20231020213732"
+ },
+ "ouroboros": {
+  "fonte": "MCU Wiki",
+  "titulo": "Ouroboros",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f1/Ouroboros_Infobox.jpg/revision/latest?cb=20231013213311"
+ },
+ "nick-fury": {
+  "fonte": "MCU Wiki",
+  "titulo": "Nick Fury",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a3/Nick_Fury_Infobox.png/revision/latest?cb=20240802141551"
+ },
+ "hope-van-dyne": {
+  "fonte": "MCU Wiki",
+  "titulo": "Wasp",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Wasp_Quantumania.jpg/revision/latest?cb=20231124223547"
+ },
+ "jane-foster": {
+  "fonte": "MCU Wiki",
+  "titulo": "Mighty Thor",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/d/db/Mighty_Thor_Infobox.jpg/revision/latest?cb=20240802141811"
+ },
+ "valentina": {
+  "fonte": "MCU Wiki",
+  "titulo": "Valentina Allegra de Fontaine",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/25/Valentina_Allegra_de_Fontaine_Infobox.png/revision/latest?cb=20250828180751"
+ },
+ "franklin": {
+  "fonte": "MCU Wiki",
+  "titulo": "Franklin Richards",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/61/Baby_Franklin_Infobox.jpg/revision/latest?cb=20250926151436"
+ },
+ "herbie": {
+  "fonte": "MCU Wiki",
+  "titulo": "H.E.R.B.I.E.",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/6f/HERBIE_Infobox.png/revision/latest?cb=20250716011355"
+ },
+ "surfista-prateada": {
+  "fonte": "MCU Wiki",
+  "titulo": "Silver Surfer",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/6/65/Shalla-Bal_%28Silver_Surfer%29_Infobox.png/revision/latest?cb=20250716023128"
+ },
+ "sersi": {
+  "fonte": "MCU Wiki",
+  "titulo": "Sersi",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/cc/Sersi_Character_Poster.jpg/revision/latest?cb=20260218025919"
+ },
+ "dane-whitman": {
+  "fonte": "MCU Wiki",
+  "titulo": "Dane Whitman",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/2e/Black_Knight_Character_Poster.jpg/revision/latest?cb=20231021144043"
+ },
+ "jessica-jones": {
+  "fonte": "MCU Wiki",
+  "titulo": "Jessica Jones",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/8/8a/Jessica_Jones_Infobox.png/revision/latest?cb=20260506204207"
+ },
+ "thaddeus-ross": {
+  "fonte": "MCU Wiki",
+  "titulo": "Red Hulk",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/1/1a/Red_Hulk_Infobox.png/revision/latest?cb=20250610000230"
+ },
+ "samuel-sterns": {
+  "fonte": "MCU Wiki",
+  "titulo": "Leader",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/c/c4/Samuel_Sterns_Infobox.jpg/revision/latest?cb=20250304023043"
+ },
+ "kang": {
+  "fonte": "MCU Wiki",
+  "titulo": "Kang the Conqueror",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Kang_the_Conqueror_Infobox.jpg/revision/latest?cb=20231124223619"
+ },
+ "thanos": {
+  "fonte": "MCU Wiki",
+  "titulo": "Thanos",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/27/Thanos_Infobox.png/revision/latest?cb=20250119155740"
+ },
+ "galactus": {
+  "fonte": "MCU Wiki",
+  "titulo": "Galactus",
+  "url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a7/Galactus.png/revision/latest?cb=20250518161359"
+ }
+}
