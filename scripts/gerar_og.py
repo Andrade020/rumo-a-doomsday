@@ -115,7 +115,7 @@ y = 300
 for l in wrap(d, 'Onde cada um está, antes de Doomsday.', f, 520):
     d.text((64, y), l, font=f, fill=WHITE); y += 64
 spaced(d, (64, H - 96), '18 · 12 · 2026', SANS(20), GREEN, 5)
-spaced(d, (64, H - 60), 'POR ANDRADE020 · ANDRADE020.GITHUB.IO', SANS(15), MUTED, 3)
+spaced(d, (64, H - 60), 'POR LUCAS ANDRADE · ANDRADE020.GITHUB.IO', SANS(15), MUTED, 3)
 im.save('public/og/home.jpg', quality=88, optimize=True)
 
 # ---------- linha do tempo ----------

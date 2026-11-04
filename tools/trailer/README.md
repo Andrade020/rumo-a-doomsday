@@ -8,7 +8,7 @@ python tools/trailer/make.py
 
 Saída em `dist/trailer/`: `trailer_master.mp4` (qualidade máxima) e `trailer_leve.mp4` (≤ 30 MB).
 Requisitos: Node, Python 3 com `numpy`, `scipy` e `imageio-ffmpeg` (ou `ffmpeg` no PATH), Google Chrome, e `npm install` dentro de `tools/trailer/` (instala `playwright-core`).
-Atenção: `npm run build` apaga a pasta `dist/`; por isso o `make.py` roda o build primeiro e só depois grava o vídeo.
+O `npm run build` do site limpa `dist/` mas **preserva `dist/trailer/`** (vídeos); o `make.py` roda o build primeiro e só depois grava o vídeo.
 
 ## Como funciona
 

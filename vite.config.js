@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { mkdirSync, writeFileSync, readdirSync, rmSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 import { characters } from './src/data/characters.js';
 
@@ -53,6 +53,18 @@ function paginasCompartilhaveis() {
   return lista;
 }
 
+// Limpa dist/ antes do build, mas PRESERVA dist/trailer (vídeos gerados por tools/trailer).
+function limpaDistPreservandoVideos() {
+  return {
+    name: 'limpa-dist-preservando-videos',
+    buildStart() {
+      const dist = join(process.cwd(), 'dist');
+      if (!existsSync(dist)) return;
+      for (const f of readdirSync(dist)) if (f !== 'trailer') rmSync(join(dist, f), { recursive: true, force: true });
+    },
+  };
+}
+
 function metaPlugin() {
   return {
     name: 'meta-e-compartilhamento',
@@ -94,5 +106,6 @@ function metaPlugin() {
 
 export default defineConfig({
   base: './',
-  plugins: [metaPlugin()],
+  build: { emptyOutDir: false },
+  plugins: [limpaDistPreservandoVideos(), metaPlugin()],
 });

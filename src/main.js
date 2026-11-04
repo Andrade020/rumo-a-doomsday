@@ -58,7 +58,7 @@ const nav = (active) => `
 const footer = () => `
   <footer class="foot">
     <img src="${BASE}brand/mark.png" alt="" />
-    <p>Projeto de fã criado por <a class="autor" href="https://andrade020.github.io/" target="_blank" rel="noopener">Andrade020</a> · <a class="autor" href="https://andrade020.github.io/" target="_blank" rel="noopener">andrade020.github.io</a>.
+    <p>Projeto de fã criado por <a class="autor" href="https://andrade020.github.io/" target="_blank" rel="noopener">Lucas Andrade</a> · <a class="autor" href="https://andrade020.github.io/" target="_blank" rel="noopener">andrade020.github.io</a>.
     Sem fins comerciais. Marcas, logos e imagens © Marvel Studios / Disney. <a href="#/creditos">Créditos das imagens</a></p>
   </footer>`;
 
@@ -383,7 +383,7 @@ async function creditsPage() {
       <p class="sub">Pôsteres, logos e imagens de personagens e de quadrinhos: © Marvel Studios / Disney, obtidos do MCU Wiki e do Marvel Database (Fandom), só para uso pessoal; não publique sem licença. Vídeo: canal oficial Marvel Entertainment. Fotos de atores: licença livre (Wikimedia Commons), abaixo.</p></section>
     <section class="credit-art">
       <img src="${BASE}img/arte-site.jpg" alt="Arte de capa do site" />
-      <p><b>Arte de capa e de compartilhamento</b><br>Imagem gerada com IA por <a href="https://andrade020.github.io/" target="_blank" rel="noopener">Andrade020</a> (<a href="https://andrade020.github.io/" target="_blank" rel="noopener">andrade020.github.io</a>), com personagens © Marvel / Disney. Conheça mais do trabalho do autor no site.</p>
+      <p><b>Arte de capa e de compartilhamento</b><br>Imagem gerada com IA por <a href="https://andrade020.github.io/" target="_blank" rel="noopener">Lucas Andrade</a> (<a href="https://andrade020.github.io/" target="_blank" rel="noopener">andrade020.github.io</a>), com personagens © Marvel / Disney. Conheça mais do trabalho do autor no site.</p>
     </section>
     <section class="tl wide" id="cr"><p class="muted">Carregando…</p></section>${footer()}`;
   try {
