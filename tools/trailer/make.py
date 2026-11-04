@@ -44,8 +44,10 @@ def measure(path):
 
 def normalize(src, dst):
     m = measure(src)
-    flt = (f"loudnorm=I=-14:TP=-2.6:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}"
-           f":measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true:print_format=summary")
+    # TP -3.5 + limitador: a compressão AAC aumenta o pico real em ~1-2 dB, e o alvo final é <= -1.5 dBTP
+    flt = (f"loudnorm=I=-14:TP=-3.5:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}"
+           f":measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true:print_format=summary,"
+           f"alimiter=limit=0.63:attack=3:release=60:level=disabled")
     run([FF, '-y', '-loglevel', 'error', '-i', src, '-af', flt, '-ar', '48000', '-c:a', 'pcm_s16le', dst])
 
 def duration(path):
@@ -60,22 +62,28 @@ def wait_server(url, tries=60):
     sys.exit('servidor de preview não subiu')
 
 def main():
+    audio_only = '--audio-only' in sys.argv   # troca só a trilha, reaproveitando as imagens do master já renderizado
     print('Legibilidade dos textos:'); check_reading()
     shutil.rmtree(TMP, ignore_errors=True); os.makedirs(TMP)
+    master = os.path.join(OUT, 'trailer_master.mp4')
 
-    print('\nBuild do site...')
-    run('npm run build', cwd=ROOT, shell=True)
-    os.makedirs(OUT, exist_ok=True)
+    if audio_only:
+        if not os.path.exists(master): sys.exit('--audio-only precisa de dist/trailer/trailer_master.mp4 já renderizado')
+        run([FF, '-y', '-loglevel', 'error', '-i', master, '-an', '-c:v', 'copy', os.path.join(TMP, 'video.mp4')])
+    else:
+        print('\nBuild do site...')
+        run('npm run build', cwd=ROOT, shell=True)
+        os.makedirs(OUT, exist_ok=True)
 
-    print('\nServidor de preview...')
-    srv = subprocess.Popen(f'npx vite preview --port {PORT} --strictPort', cwd=ROOT, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-    try:
-        wait_server(TL['base'])
-        env = dict(os.environ, FFMPEG=FF, TRAILER_URL=TL['base'])
-        print('\nRenderizando quadros (determinístico)...')
-        run(['node', 'render.mjs', os.path.join(TMP, 'video.mp4')], cwd=HERE, env=env)
-    finally:
-        subprocess.run(['taskkill', '/F', '/T', '/PID', str(srv.pid)], capture_output=True)
+        print('\nServidor de preview...')
+        srv = subprocess.Popen(f'npx vite preview --port {PORT} --strictPort', cwd=ROOT, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        try:
+            wait_server(TL['base'])
+            env = dict(os.environ, FFMPEG=FF, TRAILER_URL=TL['base'])
+            print('\nRenderizando quadros (determinístico)...')
+            run(['node', 'render.mjs', os.path.join(TMP, 'video.mp4')], cwd=HERE, env=env)
+        finally:
+            subprocess.run(['taskkill', '/F', '/T', '/PID', str(srv.pid)], capture_output=True)
 
     print('\nSintetizando áudio...')
     run([sys.executable, os.path.join(HERE, 'audio.py'), os.path.join(TMP, 'audio_raw.wav')])
@@ -85,9 +93,15 @@ def main():
     base = [FF, '-y', '-loglevel', 'error', '-i', os.path.join(TMP, 'video.mp4'), '-i', os.path.join(TMP, 'audio.wav'),
             '-map', '0:v', '-map', '1:a', '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-r', str(TL['fps']), *color,
             '-c:a', 'aac', '-movflags', '+faststart', '-t', str(TL['duration'])]
-    master = os.path.join(OUT, 'trailer_master.mp4'); leve = os.path.join(OUT, 'trailer_leve.mp4')
-    run(base + ['-crf', '16', '-preset', 'slow', '-b:a', '256k', master])
-    run(base + ['-crf', '24', '-preset', 'slow', '-maxrate', '4M', '-bufsize', '8M', '-b:a', '160k', leve])
+    leve = os.path.join(OUT, 'trailer_leve.mp4')
+    if audio_only:   # o master já é o vídeo final: só troca o áudio, sem recodificar a imagem
+        novo = master + '.new.mp4'
+        run([FF, '-y', '-loglevel', 'error', '-i', os.path.join(TMP, 'video.mp4'), '-i', os.path.join(TMP, 'audio.wav'),
+             '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '256k', '-movflags', '+faststart', '-t', str(TL['duration']), novo])
+        os.replace(novo, master)
+    else:
+        run(base + ['-crf', '16', '-preset', 'slow', '-b:a', '256k', master])
+    run(base + ['-crf', '24', '-preset', 'slow', '-maxrate', '4M', '-bufsize', '8M', '-b:a', '256k', leve])
 
     print('\nMedições (feitas por análise, não por audição):')
     for p in (master, leve):

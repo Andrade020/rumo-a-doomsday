@@ -26,7 +26,11 @@ Atenção: `npm run build` apaga a pasta `dist/`; por isso o `make.py` roda o bu
 - **Ocultação de nomes:** durante a captura, trechos que contêm nomes de pessoas (atores, criadores) e as datas são ocultados por CSS/JS no render; o site em si não é alterado.
 
 ## Áudio
-Original e sintetizado: drone e pad (sawtooth detunada com filtro), arpejo pluck, tiques de projetor (ruído filtrado), impactos (seno com queda de altura + ruído), riser (ruído com banda varrendo + tom) e reverb por convolução com resposta sintetizada. As medições de loudness e pico são feitas por análise (ffmpeg `loudnorm`); o áudio não foi ouvido durante a produção.
+Trilha **original**, sintetizada em numpy/scipy (sem samples nem músicas de terceiros), em estilo de fanfarra heroica de trailer: metais (saws desafinadas com filtro que abre no ataque e vibrato), cordas em ostinato, taiko, caixa, címbalos, rufar de tímpanos e riser. Andamento de cerca de 133 bpm, com cada seção (abertura, tensão, linha do tempo, personagens, Destino, compartilhar, final) começando exatamente num corte do vídeo. As melodias são composição própria. Há um arco dinâmico: começa baixa e tensa e cresce até o ápice no final.
+As medições de loudness e pico (−14 LUFS, pico real ≤ −1,5 dBTP) são feitas por análise no arquivo final (ffmpeg `loudnorm`); o áudio não foi ouvido durante a produção.
+
+## Trocar só a trilha
+`python tools/trailer/make.py --audio-only` regenera o áudio e refaz os arquivos sem re-renderizar as imagens (usa o vídeo do `trailer_master.mp4` já gerado).
 
 ## Ajustes comuns
 - Textos, tempos, cursor e cortes: `timeline.json` (o `make.py` recusa textos curtos demais para a leitura).
