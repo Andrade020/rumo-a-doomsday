@@ -105,17 +105,18 @@ header(im); card_texto(im, 'Doutor Destino', 'Victor von Doom · Robert Downey J
 im.save('public/og/destino.jpg', quality=86, optimize=True)
 
 # ---------- início ----------
-poster = Image.open('public/brand/poster.jpg'); poster = poster.crop((0, 0, poster.width, int(poster.height * 0.37)))  # só a figura, sem o logo impresso
-im = base(); art_right(im, poster, 520, 0.0, 300, 0.9)
-logo = Image.open('public/brand/logo.png').convert('RGBA'); logo.thumbnail((520, 220))
-im.paste(logo, (56, 70), logo)
+arte = Image.open('arquivo-original/thumbnail/arte_site.png')   # arte de capa (vertical): rosto e ombro à direita
+im = base(); art_right(im, arte, 500, 0.30, 300, 0.5)
+logo = Image.open('public/brand/logo.png').convert('RGBA'); logo.thumbnail((500, 210))
+im.paste(logo, (56, 62), logo)
 d = ImageDraw.Draw(im)
-f = SERIF_B(56)
-y = 330
+f = SERIF_B(54)
+y = 300
 for l in wrap(d, 'Onde cada um está, antes de Doomsday.', f, 520):
-    d.text((64, y), l, font=f, fill=WHITE); y += 66
-footer(im)
-im.save('public/og/home.jpg', quality=86, optimize=True)
+    d.text((64, y), l, font=f, fill=WHITE); y += 64
+spaced(d, (64, H - 96), '18 · 12 · 2026', SANS(20), GREEN, 5)
+spaced(d, (64, H - 60), 'POR ANDRADE020 · ANDRADE020.GITHUB.IO', SANS(15), MUTED, 3)
+im.save('public/og/home.jpg', quality=88, optimize=True)
 
 # ---------- linha do tempo ----------
 slugs = ['ultimato', 'nwh', 'tbolts', 'ff', 'doomsday']

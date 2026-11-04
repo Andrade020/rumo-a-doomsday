@@ -58,3 +58,7 @@ node scripts/validar.mjs                      # checa ids/grupos dos dados
 
 ## Aviso legal
 Projeto de fã, sem fins comerciais e sem qualquer vínculo com a Marvel ou a Disney. Nomes, personagens, logos, pôsteres e arte de quadrinhos são © Marvel / Disney e aparecem aqui apenas para identificar e comentar as obras; não são cobertos pela licença do código (MIT). Fotos de atores: Wikimedia Commons, com licenças e créditos em `public/img/CREDITOS.json`. Se você é titular de direitos e deseja a remoção de algum material, abra uma issue.
+
+## Autor
+Criado por **Andrade020**. Conheça mais do meu trabalho em **https://andrade020.github.io/**.
+A arte de capa e de compartilhamento do site foi gerada com IA por mim (personagens © Marvel / Disney).
